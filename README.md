@@ -33,9 +33,9 @@
 | 安全合规认证       | 可配合 CIS、FedRAMP 等           | 大量金融、医疗合规案例                 | 需要商业发行版补齐（如 FIPS、等保）   |
 | 典型使用场景       | 开发测试、K8s 实验床、成本敏感型 | 生产关键业务、Windows 虚机多、预算充足 | 大型数据中心、多租户私有云、混合云    |
 
+https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247516080&idx=1&sn=29931a16001a9a0ac3e2bc57297b3429&poc_token=HBoO2Wijw-43uZ5pABxoW3skyfr-lw8m3-sANJH2
 
-
-
+https://www.kimi.com/share/d3cgq79nu9593kpoo64g
 
 虚拟化，k8s、docker
 
